@@ -1,15 +1,14 @@
 <div align="left">
-  <h1><b>Rishabh Kumar</b> <a href="https://komarev.com/ghpvc/?username=rishabh95080&color=blueviolet" alt="Profile views">👋</a></h1>
-  <p><i>A B.Tech CSIT student passionate about technology and writing.</i></p>
+  <h1><b>Rakshit Kumar</b> <a href="https://komarev.com/ghpvc/?username=rishabh95080&color=blueviolet" alt="Profile views">👋</a></h1>
+  <p><i>A B.Tech CSE student passionate about AI and technology.</i></p>
   
   ---
   
-  ### 🚀 About Me
+  ### 🚀 Here's Me
   
-  - 🎓 Currently pursuing a Bachelor's in *Computer Science and Information Technology* at SOA ITER.
-  - 🌱 Always looking to learn and grow, with a keen interest in *web development, data structures, and algorithms*.
+  - 🎓 Currently pursuing a Bachelor's in *Computer Science and Engineering* at ITER, Bhubhneswar.
+  - 🌱 Always looking to learn and grow, with a keen interest in *machine learning, data structures, and algorithms*.
   - ✍ I love to share my knowledge and experiences through writing, focusing on topics in *tech and education*.
-  - 🤝 Actively looking to collaborate on *open-source projects*. Feel free to reach out if you have something in mind!
   
   ---
   
@@ -17,10 +16,10 @@
   
   | Category | Skills & Tools |
   | :--- | :--- |
-  | *Languages* | Python, Java, JavaScript, SQL |
-  | *Web Development* | HTML, CSS, React, Node.js |
+  | *Languages* | Python, Java |
+  | *Development* | HTML |
   | *Databases* | MySQL |
-  | *Tools & Platforms* | Git, GitHub, VS Code, Linux |
+  | *Tools & Platforms* | Git, GitHub, VS Code |
   
   ---
   
@@ -34,16 +33,16 @@
   
   ---
   
-  ### 📫 Get In Touch
+  ### 📫 How to connect-
   
-  - <b>GitHub:</b> [rishabh95080](https://github.com/rishabh95080)
-  - <b>LinkedIn:</b> [Rishabh Kumar](https://www.linkedin.com/in/rishabh-kumar-064409330)
-  - <b>Email:</b> [rishabh24273239pandey@gmail.com](mailto:rishabh24273239pandey@gmail.com)
+  - <b>GitHub:</b> [rakshit-coderr](https://github.com/rakshit-coderr)
+  - <b>LinkedIn:</b> [Rakshit Kumar](www.linkedin.com/in/rakshit-goswami-7b0a34253)
+  - <b>Email:</b> [rakshit.aigeek@gmail.com](mailto:rakshit.aigeek@gamil.com)
 
   <br>
   
   <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=rishabh95080&color=blueviolet" alt="Profile views">
+    <img src="https://komarev.com/ghpvc/?username=rakshit-coderr&color=blueviolet" alt="Profile views">
   </p>
 
 </div>
