@@ -1,18 +1,18 @@
 <div align="left">
-  <h1><b>Rakshit Kumar</b> <a href="https://komarev.com/ghpvc/?username=rishabh95080&color=blueviolet" alt="Profile views">👋</a></h1>
+  <h1><b>Rakshit Kumar</b> <a href="https://komarev.com/ghpvc/?username=rishabh95080&color=blueviolet" alt="Profile views"></a></h1>
   <p><i>A B.Tech CSE student passionate about AI and technology.</i></p>
   
   ---
   
-  ### 🚀 Here's Me
+  ###  Here's Me
   
-  - 🎓 Currently pursuing a Bachelor's in *Computer Science and Engineering* at ITER, Bhubhneswar.
-  - 🌱 Always looking to learn and grow, with a keen interest in *machine learning, data structures, and algorithms*.
-  - ✍ I love to share my knowledge and experiences through writing, focusing on topics in *tech and education*.
+  -  Currently pursuing a Bachelor's in *Computer Science and Engineering* at ITER, Bhubhneswar.
+  -  Always looking to learn and grow, with a keen interest in *machine learning, data structures, and algorithms*.
+  -  I love to share my knowledge and experiences through writing, focusing on topics in *tech and education*.
   
   ---
   
-  ### 💻 My Skills
+  ###  My Skills
   
   | Category | Skills & Tools |
   | :--- | :--- |
@@ -23,7 +23,7 @@
   
   ---
   
-  ### 💡 Projects
+  ###  Projects
   
   Here are a few projects I've been working on. You can find more on my profile!
   
@@ -33,7 +33,7 @@
   
   ---
   
-  ### 📫 How to connect-
+  ###  How to connect-
   
   - <b>GitHub:</b> [rakshit-coderr](https://github.com/rakshit-coderr)
   - <b>LinkedIn:</b> [Rakshit Kumar](www.linkedin.com/in/rakshit-goswami-7b0a34253)
